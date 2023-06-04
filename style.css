@@ -1,0 +1,28 @@
+button.btn{
+    color: #ffd900;
+}
+img.black{
+    height: 200px;
+}
+div.card-footer{
+    background-color: white;
+}
+.first-txt {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    color: white;
+    font-size: 2rem;
+}
+.first-txt1 {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    color: white;
+    font-size: 2rem;
+}
+.container{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
